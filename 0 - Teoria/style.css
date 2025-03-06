@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.container{
+    background-color: #202020;
+    display: flex;
+    flex-direction: column;
+}
+
+.one{
+    background-color: #F13969;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.two{
+    background-color: #7250FF;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+} 
+
+.three{
+    background-color: #01D0FB;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
